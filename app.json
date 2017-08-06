@@ -4,11 +4,9 @@
   "keywords": [
     "MEAN",
     "Angular",
-    "Node",
-    "MongoDB",
-    "mLab"
+    "Node"
   ],
-  "repository": "https://github.com/chrisckchang/mean-contactlist-angular2",
+  "repository": "https://github.com/JulZc/node-angular-seed",
   "success_url": "/",
   "formation": {
     "web": {
