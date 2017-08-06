@@ -2,12 +2,16 @@
   "name": "mean-skeletton",
   "version": "0.1.0",
   "description": "",
-  "author": "Max Schweigerdt",
+  "author": "Julia Zachskorn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NoLogig/Inspiration-Station"
+    "url": "https://github.com/JulZc/node-angular-seed"
   },
   "license": "MIT",
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.9"
+  },
   "scripts": {
     "ng": "ng",
     "start": "concurrently --kill-others \"npm run _server:run\" \"ng serve --aot=true --progress=false --proxy-config proxy.config.json\"",
